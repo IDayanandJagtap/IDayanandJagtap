@@ -11,7 +11,7 @@ Based in Pune, India, I enjoy working on both frontend and backend projects.<br>
 - **Languages**: JavaScript, Typescript
 - **Frameworks**: React, Next.js, Node.js, Express.js
 - **Tools**: Git, Docker, VSCode
-<br>
+
 
 ## Projects
 
@@ -21,7 +21,7 @@ Here are some of my notable projects:
 - [Blogin Backend](https://github.com/IDayanandJagtap/blogin-backend): The backend service for the blogging platform.
 - [Placement Portal](https://github.com/IDayanandJagtap/placement-portal): A platform to manage placement activities.
 - [Portfolio](https://github.com/IDayanandJagtap/dayanandjagtap): My personal portfolio website.
-<br>
+
 
 ## Contact
 
@@ -29,7 +29,7 @@ Here are some of my notable projects:
 - 🌐 Website: [Visit my portfolio](https://dayanandjagtap.vercel.app)
 - 💼 LinkedIn: [Dayanand's LinkedIn](https://www.linkedin.com/in/dayanand-jagtap-485502281)
 - 🐦 Twitter: [Dayanand's Twitter](https://x.com/IDayanandJagtap?t=9whRp6I0Wb169Kqp-OMA7Q&s=09)
-<br>
+
 
 ## Stats
 
