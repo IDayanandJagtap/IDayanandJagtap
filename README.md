@@ -2,14 +2,16 @@
   <h1>Hi there, I'm Dayanand👋 </h1>
 </div>
 
-I'm a passionate developer focused on building web applications and improving my skills in various programming languages.<br>
-Based in Pune, India, I enjoy working on both frontend and backend projects.<br><br>
+I'm a passionate developer focused on building web applications and improving my skills in various programming domains.<br>
+Based in Pune, India, I enjoy solving all sorts of problems.<br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=IDayanandJagtap&color=blue)
 <br>
 ## Skills
 
-- **Languages**: JavaScript, Typescript
-- **Frameworks**: React, Next.js, Node.js, Express.js
+- **Languages**: JavaScript, Typescript, Python
+- **Frameworks**: React, Next.js, Node.js, Express.js, Flask
+- **Cloud**: Azure
+- **Ops**: GitHub Actions
 - **Tools**: Git, Docker, VSCode
 
 
@@ -25,7 +27,7 @@ Here are some of my notable projects:
 
 ## Contact
 
-- 📧 Email: [Mail me here](mailto:your-dayanandjagtap07@gmail.com)
+- 📧 Email: [Mail me here](mailto:idayanandjagtap@gmail.com)
 - 🌐 Website: [Visit my portfolio](https://dayanandjagtap.vercel.app)
 - 💼 LinkedIn: [Dayanand's LinkedIn](https://www.linkedin.com/in/dayanand-jagtap-485502281)
 - 🐦 Twitter: [Dayanand's Twitter](https://x.com/IDayanandJagtap?t=9whRp6I0Wb169Kqp-OMA7Q&s=09)
